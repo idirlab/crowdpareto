@@ -1,4 +1,4 @@
-// Abolfazl Asudeh -- a.asudeh@gmail.comp
+// Abolfazl Asudeh -- a.asudeh@gmail.com
 #include <iostream>
 #include <cmath>
 #include <string>
