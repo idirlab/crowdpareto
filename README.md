@@ -24,4 +24,4 @@ Every line in the file has the format x;y;z;R
 - x: the dimension (criterion) index --  (0) color, (1) sharpness, (2) landscape
 - y: the index of the first picture
 - z: the index of the sexond item
-- R: the vector of crows responses -- (1) y is preferred over z on criterion x, (-1) z is preferred over y on criterion x, (0) y and z are incomparable (indifferent) on criterion x
+- R: the (comma-seprated) vector of crows responses. In every element of the vector: (1) means that the user prefers y over z on criterion x, (-1) z is preferred over y on criterion x, (0) y and z are incomparable (indifferent) on criterion x
