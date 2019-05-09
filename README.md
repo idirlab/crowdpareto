@@ -24,5 +24,5 @@ The raw collection of all crow responses is located in the file: "Datasets/AMT/R
 Every line in the file has the format x;y;z;R
 - x: the dimension (criterion) index --  (0) color, (1) sharpness, (2) landscape
 - y: the index of the first picture
-- z: the index of the sexond item
+- z: the index of the second picture
 - R: the (comma-seprated) vector of crows responses. In every element of the vector: (1) means that the user prefers y over z on criterion x, (-1) z is preferred over y on criterion x, (0) y and z are incomparable (indifferent) on criterion x
