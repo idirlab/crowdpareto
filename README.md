@@ -2,7 +2,7 @@
 
 ## Overview:
 This repository includes the supplementary materials for our CIKM 2015 paper: "Crowdsourcing Pareto-Optimal Object Finding By Pairwise Comparisons".
-**Please use the bib file "asudeh2015crowdsourcing.bib" and cite the paper if you use the materials.**
+####Please use the bib file "asudeh2015crowdsourcing.bib" and cite the paper if you use the materials.
 
 1- The paper itself is included in "Paper/crowdpareto-cikm15.pdf"
 
